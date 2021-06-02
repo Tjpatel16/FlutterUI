@@ -14,7 +14,7 @@ FlutterUI is a 100% free Flutter open-source project. I am designing a different
  - Login
  <table style="width:100%">
  <tr>
-  Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart)
+  Login layout 1 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart" >[code]</a>
   </tr>
   <tr>
   <img src="assets/screenshot/login_layout1.jpg" alt="Logo" height="300">
