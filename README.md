@@ -1,4 +1,9 @@
-![Logo](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/images/logo.png)
+<!-- ![Logo](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/images/logo.png) -->
+
+<br />
+<p align="center">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+</p>
 
 FlutterUI is a 100% free Flutter open-source project. I am designing a different type of single page and widget for mobile app. You can make easy and fast apps using my code. You can use it for commercial and non-commercial purposes without permission or attributing.
 ## Design
@@ -6,9 +11,9 @@ FlutterUI is a 100% free Flutter open-source project. I am designing a different
  - Animation
 	 - Page transition animation [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/animation/animation_page1.dart)
  - Login
-	 - Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout1.jpg)
-	 - Login layout 2 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout2.dart) [[screendhot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout2.jpg)
-	 - Loing layout 3 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_lauout3.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout3.jpg)
+	 - Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart) [![screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout1.jpg)
+	 - Login layout 2 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout2.dart) [![screendhot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout2.jpg)
+	 - Loing layout 3 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_lauout3.dart) [![screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout3.jpg)
 
  - Phone verification
 	 - Phone verification 1 [[code 1]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout1.dart) [[code 2]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout1_1.dart) [[screenshot 1]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification1.jpg) [[screenshot 2]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification1x1.jpg)
