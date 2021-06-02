@@ -12,19 +12,52 @@ FlutterUI is a 100% free Flutter open-source project. I am designing a different
 	 - Page transition animation [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/animation/animation_page1.dart)
 
  - Login
- <table style="width:100%">
- <tr>
-  Login layout 1 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart" >[code]</a>
-  </tr>
-  <tr>
-  <img src="assets/screenshot/login_layout1.jpg" alt="Logo" height="300">
-  </tr>
- </table>
-	 - Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout1.jpg)
-	 - Login layout 2 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout2.dart) [[screendhot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout2.jpg)
-	 - Loing layout 3 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_lauout3.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout3.jpg)
+	<table style="width:100%">
+	<tr>
+	Login layout 1 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout1.jpg" alt="Logo" height="300">
+	</tr>
+
+	<tr>
+	Login layout 2 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout2.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout2.jpg" alt="Logo" height="300">
+	</tr>
+
+	<tr>
+	Login layout 3 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_lauout3.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout3.jpg" alt="Logo" height="300">
+	</tr>
+	</table>
 
  - Phone verification
+	<table style="width:100%">
+	<tr>
+	Phone verification 1 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout1.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout1.jpg" alt="Logo" height="300">
+	</tr>
+
+	<tr>
+	Phone verification 2 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout2.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout2.jpg" alt="Logo" height="300">
+	</tr>
+
+	<tr>
+	Phone verification 3 <a href="https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout3.dart" >[code]</a>
+	</tr>
+	<tr>
+	<img src="assets/screenshot/login_layout3.jpg" alt="Logo" height="300">
+	</tr>
+	</table>
 	 - Phone verification 1 [[code 1]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout1.dart) [[code 2]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout1_1.dart) [[screenshot 1]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification1.jpg) [[screenshot 2]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification1x1.jpg)
 	 - Phone verification 2 [[code 1]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout2.dart) [[code 2]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout2_2.dart) [[screenshot 1]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification2.jpg) [[screenshot 2]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification2x2.jpg)
 	 - Phone verification 3 [[code 1]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout3.dart) [[code 2]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/phone_verification/phone_varification_layout3_3.dart) [[screenshot 1]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification3.jpg) [[screenshot 2]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/phone_verification3x3.jpg)
