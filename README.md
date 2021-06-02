@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-    <img src="assets/images/logo.png" alt="Logo" width="200" height="200">
+    <img src="assets/images/logo.png" alt="Logo" width="300" height="300">
 </p>
 
 FlutterUI is a 100% free Flutter open-source project. I am designing a different type of single page and widget for mobile app. You can make easy and fast apps using my code. You can use it for commercial and non-commercial purposes without permission or attributing.
@@ -10,8 +10,16 @@ FlutterUI is a 100% free Flutter open-source project. I am designing a different
 
  - Animation
 	 - Page transition animation [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/animation/animation_page1.dart)
+
  - Login
- 	<img src="assets/screenshot/login_layout1.jpg" alt="Logo">
+ <table style="width:100%">
+ <tr>
+  Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart)
+  </tr>
+  <tr>
+  <img src="assets/screenshot/login_layout1.jpg" alt="Logo" height="300">
+  </tr>
+ </table>
 	 - Login layout 1 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout1.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout1.jpg)
 	 - Login layout 2 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_layout2.dart) [[screendhot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout2.jpg)
 	 - Loing layout 3 [[code]](https://github.com/Tjpatel16/flutterui/blob/master/lib/ui/pages/login/login_lauout3.dart) [[screenshot]](https://raw.githubusercontent.com/Tjpatel16/flutterui/master/assets/screenshot/login_layout3.jpg)
